@@ -1,7 +1,6 @@
-## Pamodoro Clock Timer
+## Pomodoro Clock Timer
 
-> Pamodoro timer is one of the examples to exercise your javascript skills. So, for this challenge I build one that contains audio effects, start pause and stop button, functionality and audio controls.
-
+> Pomodoro is a customizable pomodoro timer that works on desktop & mobile browser. The aim of this app is to help you focus on any task you are working on, such as study, writing, or coding. This app is inspired by Pomodoro Technique which is a time management method developed by Francesco Cirillo.
 
 
 > Things I learned in this project;
@@ -12,7 +11,7 @@
   
 
 > References:
-  * [Pamodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+  * [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
   * [setInverval() methods](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval).
 
 ## Installation
